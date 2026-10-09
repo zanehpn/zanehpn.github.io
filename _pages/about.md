@@ -85,7 +85,6 @@ arXiv:2601.03708, 2026.<br>
 
 - **Outstanding Graduate**, Peking University (the only master's student in the department to receive the award)
 - **Academic Excellence Award**, Peking University
-- **Special Scholarship**, Peking University
 - **Huawei Scholarship**, Peking University
 - **Outstanding Graduate**, Huazhong University of Science and Technology
 - **National Scholarship**, Huazhong University of Science and Technology
