@@ -44,6 +44,10 @@ Conference on Neural Information Processing Systems (NeurIPS 2026)<br>
 IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2026)<br>
 [arXiv](https://arxiv.org/abs/2605.13536) · [PDF](https://arxiv.org/pdf/2605.13536)
 
+**Reading the Geometry: A Mechanism for When Frozen LLM Text Helps Tabular Foundation Models**<br>
+**Qingyun Zou**, Yingze Li, and Nuo Chen.<br>
+Findings of the Association for Computational Linguistics: EMNLP 2026
+
 **Diversity Collapse in Multi-Agent LLM Systems: Structural Coupling and Collective Failure in Open-Ended Idea Generation**<br>
 Nuo Chen, Yicheng Tong, Yuzhe Yang, Yufei He, Xueyi Zhang, **Qingyun Zou**, Qian Wang, and Bingsheng He.<br>
 FAGEN @ ICML 2026 — Oral<br>
