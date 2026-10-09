@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am Qingyun Zou, a Ph.D. student at the School of Computing, National University of Singapore (NUS). I am very fortunate to be advised by Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I received my master's degree in Microelectronics from Peking University and my bachelor's degree in Integrated Circuit and Integrated System from Huazhong University of Science and Technology.
+I am Qingyun Zou, a Ph.D. student at the School of Computing, National University of Singapore (NUS). I am very fortunate to be advised by Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I received my master's degree in Microelectronics from the School of Integrated Circuits at Peking University and my bachelor's degree in Integrated Circuit and Integrated System from the School of Integrated Circuits at Huazhong University of Science and Technology.
 
 My research interests include **LLMs for electronic design automation (EDA)**, **energy-efficient LLM serving**, **LLM agents**, and **multi-agent systems**. I explore how LLMs can support hardware code generation, optimization, and verification, and how serving systems can reduce energy consumption while meeting latency and throughput requirements. I am also interested in how LLM agents use tools and work together on complex tasks, and how to make their reasoning, coordination, and evaluation more reliable.
 
 ## Education
 
-I am currently pursuing a Ph.D. at the School of Computing, National University of Singapore, advised by Prof. Weng-Fai Wong and Prof. Bingsheng He. I earned my master's degree in Microelectronics from Peking University's School of Electronics Engineering and Computer Science. I received my bachelor's degree in Integrated Circuit and Integrated System from the School of Optical and Electronic Information at Huazhong University of Science and Technology.
+I am currently pursuing a Ph.D. at the School of Computing, National University of Singapore, advised by Prof. Weng-Fai Wong and Prof. Bingsheng He. I earned my master's degree in Microelectronics from the School of Integrated Circuits at Peking University. I received my bachelor's degree in Integrated Circuit and Integrated System from the School of Integrated Circuits at Huazhong University of Science and Technology.
 
 ## Publications
 
