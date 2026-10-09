@@ -3,29 +3,14 @@ main:
   - title: "About Me"
     url: /
 
+  - title: "Education"
+    url: /#education
+
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Awards"
     url: /#awards
 
   - title: "Service"
     url: /#service
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

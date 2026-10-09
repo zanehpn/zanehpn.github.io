@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Qingyun Zou, a Ph.D. student at the School of Computing, National University of Singapore (NUS). I am very fortunate to be advised by Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I received my master's degree in Microelectronics from Peking University in 2022 and my bachelor's degree in Integrated Circuit and Integrated System from Huazhong University of Science and Technology in 2019.
+I am Qingyun Zou, a Ph.D. student at the School of Computing, National University of Singapore (NUS). I am very fortunate to be advised by Prof. [Weng-Fai Wong](https://www.comp.nus.edu.sg/~wongwf/) and Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/). I received my master's degree in Microelectronics from Peking University and my bachelor's degree in Integrated Circuit and Integrated System from Huazhong University of Science and Technology.
 
 My research interests are **LLMs for electronic design automation (EDA)**, **energy-efficient LLM serving**, **LLM agents**, and **multi-agent systems**.
 
@@ -22,7 +22,7 @@ School of Computing
 
 ### Peking University
 
-**Master's degree in Microelectronics** · Sept. 2019 – Jul. 2022<br>
+**Master's degree in Microelectronics**<br>
 School of Electronics Engineering and Computer Science
 
 - **Dissertation:** The Design of Neural Network Accelerator Based on Asynchronous NoC
@@ -31,11 +31,83 @@ School of Electronics Engineering and Computer Science
 
 ### Huazhong University of Science and Technology
 
-**Bachelor's degree in Integrated Circuit and Integrated System** · Sept. 2015 – Jul. 2019<br>
+**Bachelor's degree in Integrated Circuit and Integrated System**<br>
 School of Optical and Electronic Information
 
 - **Overall grade:** 89.91/100
 - **Rank:** 2/55
+
+## Publications
+
+### Selected Published Papers
+
+#### Is Agentic AI Ready for Real-World Hardware Engineering? A Deep Dive with Phoenix-bench
+
+**Qingyun Zou**, Feng Yu, Hongshi Tan, Jiahao Cui, Bingsheng He, and Weng-Fai Wong.<br>
+**Conference on Neural Information Processing Systems (NeurIPS 2026)**<br>
+[Paper](https://neurips.cc/virtual/2026/poster/139277) · [PDF](https://arxiv.org/pdf/2605.15226)
+
+#### HDL-RepoBench: Multi-Paradigm Repository-Level Code Completion for Hardware Design Languages
+
+**Qingyun Zou**, Jiahao Cui, Nuo Chen, Bingsheng He, and Weng-Fai Wong.<br>
+**Conference on Neural Information Processing Systems (NeurIPS 2026)**<br>
+[Paper](https://neurips.cc/virtual/2026/poster/139340)
+
+#### On-Policy Distillation with Open Property-Equivalence Reward for LLM-Based NL-to-SVA Generation
+
+**Qingyun Zou**, Yingze Li, Tianen Liu, Bingsheng He, and Weng-Fai Wong.<br>
+**Conference on Neural Information Processing Systems (NeurIPS 2026)**<br>
+[Paper](https://neurips.cc/virtual/2026/poster/149770) · [PDF](https://arxiv.org/pdf/2605.13501)
+
+#### Logarithmic Depth Suffices for In-Context Gradient Descent
+
+Yingze Li, Dong Wang, Xianglong Liu, **Qingyun Zou**, Chunnan Wang, Zhiyu Liang, and Hongzhi Wang.<br>
+**Conference on Neural Information Processing Systems (NeurIPS 2026)**<br>
+[Paper](https://neurips.cc/virtual/2026/poster/149279)
+
+#### Diversity Collapse in Multi-Agent LLM Systems: Structural Coupling and Collective Failure in Open-Ended Idea Generation
+
+Nuo Chen, Yicheng Tong, Yuzhe Yang, Yufei He, Xueyi Zhang, **Qingyun Zou**, Qian Wang, and Bingsheng He.<br>
+**FAGEN @ ICML 2026 — Oral**<br>
+[Paper](https://aclanthology.org/2026.findings-acl.13/) · [PDF](https://aclanthology.org/2026.findings-acl.13.pdf)
+
+### Selected Preprint
+
+#### ActTune: Action-Aware Precision and GPU Operating-Point Adaptation for Energy-Efficient Vision-Language-Action Inference
+
+**Qingyun Zou**, Bin Gao, Wenju Zhao, Weng-Fai Wong, Bingsheng He, and Tulika Mitra.<br>
+arXiv:2610.08444, 2026.<br>
+[arXiv](https://arxiv.org/abs/2610.08444) · [PDF](https://arxiv.org/pdf/2610.08444)
+
+#### ECO: Energy-Oriented Configuration Optimization for Attention FFN Disaggregated LLM Serving
+
+**Qingyun Zou**, Bin Gao, Zhuobin Huang, Weng-Fai Wong, Tulika Mitra, and Bingsheng He.<br>
+arXiv:2610.08373, 2026.<br>
+[arXiv](https://arxiv.org/abs/2610.08373) · [PDF](https://arxiv.org/pdf/2610.08373)
+
+#### JudgeLRM: Large Reasoning Models as a Judge
+
+Nuo Chen, Zhiyuan Hu, **Qingyun Zou**, Jiaying Wu, Qian Wang, Bryan Hooi, and Bingsheng He.<br>
+arXiv:2504.00050, 2025.<br>
+[arXiv](https://arxiv.org/abs/2504.00050) · [PDF](https://arxiv.org/pdf/2504.00050)
+
+#### HLStrans: Dataset for LLM-Driven C-to-HLS Hardware Code Synthesis
+
+**Qingyun Zou**, Nuo Chen, Yao Chen, Bingsheng He, and Weng-Fai Wong.<br>
+arXiv:2507.04315, 2025.<br>
+[arXiv](https://arxiv.org/abs/2507.04315) · [PDF](https://arxiv.org/pdf/2507.04315)
+
+#### Articulate Intuition or Genuine Analysis? Benchmarking Epistemic Reliability in LLM-as-a-Judge Peer Reviews
+
+Nuo Chen, Qian Wang, **Qingyun Zou**, and Bingsheng He.<br>
+arXiv:2607.10511, 2026.<br>
+[arXiv](https://arxiv.org/abs/2607.10511) · [PDF](https://arxiv.org/pdf/2607.10511)
+
+#### MHRC-Bench: A Multilingual Hardware Repository-Level Code Completion Benchmark
+
+**Qingyun Zou**, Jiahao Cui, Nuo Chen, Bingsheng He, and Weng-Fai Wong.<br>
+arXiv:2601.03708, 2026.<br>
+[arXiv](https://arxiv.org/abs/2601.03708) · [PDF](https://arxiv.org/pdf/2601.03708)
 
 ## Awards
 
