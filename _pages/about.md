@@ -13,7 +13,7 @@ My research interests are **LLMs for electronic design automation (EDA)**, **ene
 
 ## Education
 
-I am currently pursuing a Ph.D. at the School of Computing, National University of Singapore, advised by Prof. Weng-Fai Wong and Prof. Bingsheng He. I earned my master's degree in Microelectronics from Peking University's School of Electronics Engineering and Computer Science, with a GPA of 3.61/4.0. My dissertation, "The Design of Neural Network Accelerator Based on Asynchronous NoC," was supervised by Prof. Xiaoxin Cui. I received my bachelor's degree in Integrated Circuit and Integrated System from the School of Optical and Electronic Information at Huazhong University of Science and Technology, with an overall grade of 89.91/100 and a rank of 2/55.
+I am currently pursuing a Ph.D. at the School of Computing, National University of Singapore, advised by Prof. Weng-Fai Wong and Prof. Bingsheng He. I earned my master's degree in Microelectronics from Peking University's School of Electronics Engineering and Computer Science. My dissertation, "The Design of Neural Network Accelerator Based on Asynchronous NoC," was supervised by Prof. Xiaoxin Cui. I received my bachelor's degree in Integrated Circuit and Integrated System from the School of Optical and Electronic Information at Huazhong University of Science and Technology.
 
 ## Publications
 
@@ -75,11 +75,6 @@ arXiv:2507.04315, 2025.<br>
 Nuo Chen, Qian Wang, **Qingyun Zou**, and Bingsheng He.<br>
 arXiv:2607.10511, 2026.<br>
 [arXiv](https://arxiv.org/abs/2607.10511) · [PDF](https://arxiv.org/pdf/2607.10511)
-
-**MHRC-Bench: A Multilingual Hardware Repository-Level Code Completion Benchmark**<br>
-**Qingyun Zou**, Jiahao Cui, Nuo Chen, Bingsheng He, and Weng-Fai Wong.<br>
-arXiv:2601.03708, 2026.<br>
-[arXiv](https://arxiv.org/abs/2601.03708) · [PDF](https://arxiv.org/pdf/2601.03708)
 
 ## Awards
 
