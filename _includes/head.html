@@ -2,6 +2,12 @@
 
 <meta charset="utf-8">
 
+{% assign migrated_url = page.url | replace: "/index.html", "/" | prepend: site.url %}
+<script>
+  window.location.replace({{ migrated_url | jsonify }} + window.location.search + window.location.hash);
+</script>
+<meta http-equiv="refresh" content="0; url={{ migrated_url | escape }}">
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">

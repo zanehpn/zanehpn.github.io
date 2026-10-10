@@ -12,7 +12,7 @@ title                    : "Qingyun Zou"
 title_separator          : "-"
 name                     : &name "Qingyun Zou"
 description              : &description "Qingyun Zou's academic website: LLMs for EDA and energy-efficient LLM serving."
-url                      : https://zanehpn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://qingyunzou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zanehpn/zanehpn.github.io"
 
